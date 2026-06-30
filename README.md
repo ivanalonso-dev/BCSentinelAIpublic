@@ -206,9 +206,9 @@ Company overview.
 
 ---
 
-### 10 — FAQ
+### 10 — Why BCSeninel AI
 
-Frequently asked questions.
+
 
 ---
 
